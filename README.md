@@ -9,7 +9,7 @@ Aplicação Streamlit para gerar sumários estruturados de pacientes a partir de
 ```
 
 - **Groq Whisper** (`whisper-large-v3-turbo`): Transcrição rápida e precisa
-- **Anthropic Claude** (`claude-sonnet-4-20250514`): Análise e extração estruturada
+- **Anthropic Claude** (`claude-sonnet-4-5-20250929`): Análise e extração estruturada
 
 ## Instalação Local
 

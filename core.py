@@ -163,7 +163,7 @@ CHECKLIST antes de responder:
 # =============================================================================
 
 WHISPER_MODEL = "whisper-large-v3-turbo"  # Groq's fastest Whisper model
-CLAUDE_MODEL = "claude-sonnet-4-20250514"  # Claude Sonnet 4
+CLAUDE_MODEL = "claude-sonnet-4-5-20250929"  # Claude Sonnet 4
 
 
 # =============================================================================
